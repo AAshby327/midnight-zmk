@@ -1,2 +1,9 @@
 
-.zmk/
+.venv/
+.west/
+build/
+modules/
+zephyr/
+!zephyr/module.yml
+zmk/
+firmware/
